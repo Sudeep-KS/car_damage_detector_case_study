@@ -1,4 +1,4 @@
-# car_damage_detector_case_study
+# Car Damage Detector
 You are working as an ML engineer for an e-commerce company Carsdepo.com, which provides an online marketplace for the purchase and sale of used/new cars.
 
 The company was founded in 2016 as an online platform to buy and sell used/new cars. The company offers end-to-end transactions, where it provides a smooth transition of ownership from the sellers to the buyers at the best rates. It sells more than 1 million cars worldwide annually and is considered one of the top three companies in the Asian market. 
