@@ -77,7 +77,7 @@ What component/pipeline will be triggered if you have additional annotated data?
 
 In the table below, you can find the evaluation rubrics for the assignment.
 
-![image](https://user-images.githubusercontent.com/43085686/225815436-c8f41921-0b38-44fb-8674-1941101a020a.png)
+![image](https://user-images.githubusercontent.com/43085686/225815781-3bae4afa-9c22-4764-a074-4359ccb60d82.png)
 
 All the deliverables should be combined and submitted as a single .pdf file.
 
